@@ -1,10 +1,10 @@
 # Bibliography verification
 
-Checked 95 retained entries on 8 November 2026.
-77 matched DOI registry records. The other entries have the
+Checked 98 retained entries on 8 November 2026.
+80 matched DOI registry records. The other entries have the
 publisher, public archive or catalogue records below. The check covers
 bibliographic identity. The status of each mathematical use is stated in
-the manuscript.
+the manuscript. The bibliography contains 5 author self-citations.
 
 The inherited Efimov DOI was replaced with the article scan. The Pius–Sen
 erratum now has its own entry and DOI. The original 't Hooft–Veltman
@@ -107,3 +107,6 @@ articles. Uncited entries and private draft identifiers were removed.
 - Page1993. [Publisher, archive or catalogue record](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.71.1291)
 - LiebRuskai1973. [Registry-checked DOI](https://doi.org/10.1063/1.1666274)
 - PiusSenErratum2018. [Registry-checked DOI](https://doi.org/10.1007/JHEP09(2018)122)
+- NullProjectedSYM2026. [Registry-checked DOI](https://doi.org/10.20944/preprints202610.3127.v1)
+- Sezgin1997. [Registry-checked DOI](https://doi.org/10.1016/S0370-2693(97)00516-9)
+- RiosMarraniChester2020. [Registry-checked DOI](https://doi.org/10.1016/j.physletb.2020.135674)

@@ -29,6 +29,16 @@ assumptions in the entropy calculation are now explicit.
 
 ## Added results
 
+- A rank-two null projection in signature \(11+3\) gives a residual
+  \(9+1\) space. The explicit torus reduction has no mixed metric
+  and matter Hessian at the zero-field vacuum. A positive tensor
+  exchange has the opposite sign from the required hardening,
+  and finite polynomial quadratic blocks cannot give the saturating
+  entire multiplier.
+- A symmetric Fock-space channel gives the Gaussian-cell multiplier
+  as a unitary matrix coefficient. The total shift converges absolutely
+  for almost every frozen gas. Its full real spectral support excludes
+  any semibounded realization of the same shift generator.
 - The Gaussian cluster-sector elimination has a definite sign.
   With a fixed bare light kinetic term, a positive heavy sector
   cannot produce the proposed ultraviolet suppression by that exchange.

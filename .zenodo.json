@@ -1,0 +1,27 @@
+{
+  "title": "A Positivity No-Go Theorem for Ultraviolet-Suppressed Brane-Cluster Gravity",
+  "version": "3.0.0",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "description": "<p>A Poisson brane gas yields an ultraviolet-suppressed propagator with a single graviton pole. We realize its transmission multiplier as a unitary matrix coefficient and prove that the resulting gauge-invariant curvature covariance violates reflection positivity.</p><p>Version 3 includes the manuscript, standalone amsart source, bibliography audit, and revision notes.</p>",
+  "keywords": [
+    "quantum gravity",
+    "brane gases",
+    "ultraviolet power counting",
+    "reflection positivity"
+  ],
+  "creators": [
+    {"name": "Singha Roy, Sanjeevan", "orcid": "0000-0002-6148-1421", "affiliation": "Formerly, Birla Institute of Technology, Mesra, Ranchi 835215, India"},
+    {"name": "Sadhu, Riddhima", "affiliation": "Formerly, Birla Institute of Technology, Mesra, Ranchi 835215, India"},
+    {"name": "Bhattacharjee, Deep", "orcid": "0000-0003-0466-750X", "affiliation": "Formerly, Electro-Gravitational Space Propulsion Laboratory, Bhubaneswar 751030, India; formerly, Heramba Chandra College, University of Calcutta, Kolkata 700029, India"},
+    {"name": "Samal, Priyanka", "orcid": "0000-0002-2343-9169", "affiliation": "Independent researcher in theoretical physics, Odisha, India"},
+    {"name": "Nandi, Pallab", "affiliation": "Solid State Physics Laboratory, DRDO, Timarpur, Delhi 110054, India; formerly, IISER Kolkata, Mohanpur, Nadia 741246, India"},
+    {"name": "Thakur, Soumendra Nath", "orcid": "0000-0003-1871-7803", "affiliation": "Tagore's Electronic Lab, Kolkata 700005, India"},
+    {"name": "Bhattacharya, Ushashi", "orcid": "0009-0002-2254-3914", "affiliation": "Formerly, National Taiwan University, Taipei 106319, Taiwan"}
+  ],
+  "related_identifiers": [
+    {"identifier": "10.20944/preprints202508.0407.v2", "relation": "isNewVersionOf", "scheme": "doi"}
+  ]
+}
