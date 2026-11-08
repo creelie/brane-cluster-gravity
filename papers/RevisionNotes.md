@@ -5,9 +5,10 @@ the posted v2. Deep Bhattacharjee remains the sole corresponding
 author. Ushashi Bhattacharya is appended and credited for the Poisson
 brane-gas and perturbative cancellation work from the public Hexagon
 versions. The affiliation lines distinguish former affiliations and
-include documented postal codes. A postal code for an independent
-research affiliation and a specific DRDO workplace need author-supplied
-details.
+include documented postal codes. Pallab Nandi's Scientist B affiliation
+is at Solid State Physics Laboratory, DRDO, Delhi 110054. His former
+IISER Kolkata affiliation has PIN 741246. Priyanka Samal's independent
+research affiliation is listed as Odisha, India.
 
 ## Material retained from the posted v2
 
