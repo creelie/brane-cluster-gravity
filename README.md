@@ -1,4 +1,4 @@
-# A Positivity No-Go Theorem for Ultraviolet-Suppressed Brane-Cluster Gravity
+# Ultraviolet Bounds and the Positivity Obstruction in Brane-Cluster Gravity
 
 The manuscript and standalone LaTeX sources are in the **papers** folder.
 Extract the source ZIP and select **manuscript.tex** as the main document.
